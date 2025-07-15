@@ -16,7 +16,7 @@ Esta es la página web oficial para el alquiler de departamentos en el Condomini
 
 ### Información de Contacto:
 
-- **WhatsApp**: +51 983 454 562 (Elvira Burgos)
+- **WhatsApp**: +51 983 454 562 
 - **Correo**: maryelvira.burgos@gmail.com
 - **Ubicación**: Av. Guardia Civil Norte 665, Santiago de Surco, Perú
 
